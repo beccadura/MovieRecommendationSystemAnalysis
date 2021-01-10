@@ -1,5 +1,4 @@
 Name: Becca Dura
-Student ID: 5677069
 Email: dura0083@umn.edu
 
 
